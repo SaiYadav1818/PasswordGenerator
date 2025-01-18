@@ -1,0 +1,17 @@
+body{
+    background-color: blueviolet !important;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ height: 100%;
+ width: 100%;
+
+}
+.box{
+    margin-top: 120px;
+    width: 400px;
+    background-color: palevioletred;
+    height: 453px;
+    padding: 20px;
+}
+
